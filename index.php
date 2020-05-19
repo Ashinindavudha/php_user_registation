@@ -71,10 +71,10 @@ else {
 		</div>
 	</div>
 
-	<div class="container">
+	<!-- <div class="container">
 		<div class="row">
 			<a href="https://codepen.io/clevertechie/pen/NbxyPX">Click Here!</a>
 		</div>
-	</div>
+	</div> -->
 </body>
 </html>
